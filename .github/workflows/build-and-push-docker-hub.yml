@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lamdb/ci-cd:staging2
+          tags: bachpro/ci-cd:staging2
 
 
   pull-and-up:
